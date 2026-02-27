@@ -4,13 +4,13 @@ CLASS : TIS - C
 
 # CRUD MongoDB - Bookstore
 
-## Show Database
+# Show Database
 show dbs
 
-##Use Database
+# Use Database
 use bookstore
 
-## Show Collections
+# Show Collections
 show collections
 
 # Insert One
